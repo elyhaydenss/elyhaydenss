@@ -1,0 +1,5 @@
+- 👋 Ola! sou @elyhaydenss
+- 👀 estou interessado em aprender sempre mais a cada dia
+- 🌱 Estou aprendendo programação basica e indo atras de um futuro na area tecnologica
+- 📫 Atualmente fazendo varios cursos entre Udemy e DIO
+- vou deixar aqui um repositorio de meus exercicios em cursos.. ordenados em pastas de seus respectivos locais.. 
